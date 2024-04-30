@@ -1,0 +1,1 @@
+A web Application that makes users can do all Create, Update, Delete, Retrieve, Compare, Search for Products using RestFul APIs in organized and secured way in registeration and login flow with postman JSON file Config using Java EE, Spring MVC, Spring Boot, Spring Data JPA, Spring Security, MySQL, Postman, Unit Testing.
